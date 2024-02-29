@@ -8,6 +8,8 @@
 
 Модели база данных: learning/models.py
 
+Алгоритм распределения в группы: learning/signals.py
+
 Реализация API: learning/api/
 
 
